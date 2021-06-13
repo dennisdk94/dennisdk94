@@ -21,7 +21,7 @@ Seja bem vindo a minha página do github! Eu sou o Dennis Dyodi Kawakami, formad
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dennisdk94&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/css.svg"></code>
+<code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/eslint-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/javascript-ar21.svg"></code>
 <br />
 <code><img width="8%" src="https://github.com/dennisdk94/dennisdk94/blob/main/sass-lang-ar21.svg"></code>
@@ -32,5 +32,5 @@ Seja bem vindo a minha página do github! Eu sou o Dennis Dyodi Kawakami, formad
 <code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/github-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/firebase-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://github.com/dennisdk94/dennisdk94/blob/main/eslint-ar21.svg"></code>
+
 </p>
