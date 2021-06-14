@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-kawakami/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:denniskawakamai@gmail.com)
 
-Seja bem vindo a minha página do github! Eu sou o Dennis Dyodi Kawakami, formado em ciência da computação pelo Centro Univversitário Luterano de Palmas (CEULP/ULBRA)
+Seja bem vindo a minha página do github! Eu sou o Dennis Dyodi Kawakami, formado em ciência da computação pelo Centro Universitário Luterano de Palmas (CEULP/ULBRA)
 
 <img align="right" alt="img" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" height="auto" />
 
